@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f6fd9b02d4594d80b9dc66e803dff39c/artifacts
+end_time: 1704820484511
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f6fd9b02d4594d80b9dc66e803dff39c
+run_name: grandiose-fly-45
+run_uuid: f6fd9b02d4594d80b9dc66e803dff39c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704820475538
+status: 4
+tags: []
+user_id: hp
